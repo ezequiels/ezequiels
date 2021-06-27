@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zeke
+- 👀 I’m interested in Python, DevOps, Automation, Software Engineering Patterns, Raspberry Pi's, Aviation, Self Driving Technology, Aerospace Engineering, Traveling, SCUBA Diving, Skydiving, and many more things.
+- 🌱 I’m currently learning patterns in Python and Kubernetes
+- 💞️ I’m looking to collaborate on any projects that can solve world mosts challenging problems: access to drinking water, food supply, greenhouse effects, global warming, etc.
+- 📫 ezequiell ....
